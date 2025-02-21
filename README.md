@@ -3,9 +3,10 @@
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danray472&show_icons=true&theme=radical)
 
+
 ## 🔥 Streak Stats
-## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=danray472&theme=radical&v=1)
+![GitHub Streak](https://streak-stats.demolab.com/?user=danray472&theme=radical)
+
 
 
 ## 🚀 Top Languages
