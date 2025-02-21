@@ -5,7 +5,8 @@
 
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=danray472&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danray472&theme=radical)
+
 
 
 
