@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Danray472!
+# 👋 Hi, I'm DancanFullstackDev!
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danray472&show_icons=true&theme=radical)
