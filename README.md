@@ -1,30 +1,52 @@
-# 👋 Hey there, I'm Dancan — Fullstack Developer 🧠 turned Cybersecurity Explorer 🔐
+# 👋 Hi, I’m Dancan Ongong'o — Fullstack & Cybersecurity Engineer from Nairobi 🇰🇪
 
-I build software like an engineer and break it like a hacker.
+🎯 I design, build, and secure web and mobile applications using modern tech stacks — from frontend UX to backend APIs and network-layer security.
 
-With a Diploma in Software Engineering and now studying Cybersecurity & Forensics at Open University of Kenya, I bridge the gap between code and cyber risk. I’m not just chasing certs — I document real breaches, reverse incidents, and explore both sides of the firewall.
-
----
-
-### 🚀 What I Do
-
-- 🛠️ Fullstack apps with React, Node.js, MongoDB & Firebase  
-- 🧪 Incident response, threat modeling, and account takeover forensics  
-- 🔍 Contributor to open-source + security writeups on GitHub  
-- 🎓 Learning daily from platforms like Hack The Box, TryHackMe & real-world incidents
+With a Software Engineering background and expertise in offensive and defensive cybersecurity, I ensure my solutions are both performant and hardened against real-world threats.
 
 ---
 
-### 🧠 Recent Security Work
+## 💻 Tech Stack
 
-- 📄 [PayPal Account Takeover Reconstruction](https://github.com/danray472/paypal-ato-case)  
-  *My personal account got hijacked — I turned it into a forensic case study.*  
-- 🔒 Coming soon: Android APK tampering & broken auth recon
+**Frontend**: React.js · Next.js · HTML5 · Tailwind CSS · JavaScript (ES6+)  
+**Backend**: Node.js · Express.js · REST APIs · JWT · GraphQL  
+**Mobile**: React Native · Expo  
+**Database**: MongoDB · Firebase Firestore · MySQL  
+**Security Tools**: Kali Linux · Burp Suite · Wireshark · Nmap · Hydra  
+**DevOps & Other**: GitHub Actions · Postman · Responsive Design · Figma  
+**Languages**: JavaScript · Python · PHP · C++
 
 ---
 
-### 🌐 Let’s Connect
+## 🛡️ Cybersecurity Skillset
 
-- GitHub: [@danray472](https://github.com/danray472)  
-- Telegram: `@danray`  
-- Learning in public. Building with code. Breaking with curiosity.
+- 🧠 Threat modeling & incident analysis (real-world ATO investigations)  
+- 🔐 Web application security (XSS, IDOR, Auth bypass, misconfig detection)  
+- 🛠️ Hands-on labs with TryHackMe, Hack The Box, Kali VM  
+- 📊 Network & endpoint security (CCNA CyberOps, SecOps, automation, routing)  
+- 👣 OSINT, vulnerability scanning, and forensic timeline reconstruction
+
+---
+
+## 🚀 Featured Projects
+
+Explore my latest fullstack apps and security research:  
+👉 **[View my project demos](https://danray472.github.io/portfolio/)**
+
+---
+
+## 📜 Certifications
+
+- ✅ CCNA: CyberOps · Security · Routing · Automation · DevNet  
+- ✅ Ethical Hacking · Introduction to Cybersecurity · Network Defense  
+- ✅ Responsive Web Design (freeCodeCamp)  
+- ✅ JavaScript & Python (SoloLearn)
+
+---
+
+## 🌐 Let's Connect
+
+- 🔗 [GitHub](https://github.com/danray472)  
+- 💼 [LinkedIn](https://linkedin.com/in/dan-b5695a241)  
+- 🌍 [Portfolio](https://danray472.github.io/portfolio/)  
+- 🧪 Always building. Always securing. Always improving.
